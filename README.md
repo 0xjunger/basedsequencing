@@ -1,4 +1,20 @@
-## Based Sequencing
+## Ethereum Preconfirmations and Sequencing Calls
+
+- [Ethereum Sequencing and Preconfirmations Call #0](https://www.youtube.com/watch?v=8xFVC9T9LR4)
+- [Ethereum Sequencing and Preconfirmations Call #1](https://www.youtube.com/watch?v=2IK136vz-PM)
+- [Ethereum Sequencing and Preconfirmations Call #2](https://www.youtube.com/watch?v=mAGGdPRmhsc)
+- [Ethereum Sequencing and Preconfirmations Call #3](https://www.youtube.com/watch?v=XSsKFINj710)
+- [Ethereum Sequencing and Preconfirmations Call #4](https://www.youtube.com/watch?v=IsYISmTmPmQ)
+
+### Other Main Recordings
+
+- [United Chains of Ethereum](https://www.youtube.com/watch?v=YrAlAHbgRCk&t=16091s)
+- [RollCall on Shared Sequencing](https://www.youtube.com/watch?v=eycLQCaqDsk)
+- [Bankless on Fixing Fragmentation](https://www.youtube.com/watch?v=MnsjUZo7RRI)
+- [Bankless on Shared Sequencing](https://www.youtube.com/watch?v=2PRHKPiafgY)
+- [Keynote: Rollup Preconfirmations | Justin Drake](https://www.youtube.com/watch?v=boxGqp9mGJ4)
+
+# Based Sequencing
 
 ### Researchs
 
@@ -21,7 +37,7 @@
 - [Taiko's Based Boosted Rollup Architecture](https://www.youtube.com/watch?v=g6O24IrK1Ps)
 - [Based Rollups and the MEV Gambit](https://www.youtube.com/watch?v=nwOKxw7WicE)
 
-## Preconfirmations
+# Based Preconfirmations
 
 ### Researchs
 
