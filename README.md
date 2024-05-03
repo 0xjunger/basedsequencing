@@ -12,7 +12,7 @@
 - [RollCall on Shared Sequencing](https://www.youtube.com/watch?v=eycLQCaqDsk)
 - [Bankless on Fixing Fragmentation](https://www.youtube.com/watch?v=MnsjUZo7RRI)
 - [Bankless on Shared Sequencing](https://www.youtube.com/watch?v=2PRHKPiafgY)
-- [Keynote: Rollup Preconfirmations | Justin Drake](https://www.youtube.com/watch?v=boxGqp9mGJ4)
+- [Keynote: Rollup Preconfirmations](https://www.youtube.com/watch?v=boxGqp9mGJ4)
 
 # Based Sequencing
 
