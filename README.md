@@ -5,6 +5,8 @@
 - [Ethereum Sequencing and Preconfirmations Call #2](https://www.youtube.com/watch?v=mAGGdPRmhsc)
 - [Ethereum Sequencing and Preconfirmations Call #3](https://www.youtube.com/watch?v=XSsKFINj710)
 - [Ethereum Sequencing and Preconfirmations Call #4](https://www.youtube.com/watch?v=IsYISmTmPmQ)
+- [Ethereum Sequencing and Preconfirmations Call #5](https://www.youtube.com/watch?v=8HFVnb69zUI)
+- [Ethereum Sequencing and Preconfirmations Call #6](https://www.youtube.com/watch?v=w91otDFmGpo)
 
 ### Other Main Recordings
 
@@ -52,6 +54,9 @@
 - [Preconfirmation-based Market Manipulation | Alex](https://docs.google.com/presentation/d/1y9OhyQuJ0qJP1s-WyKbdNF_qrk3Nn_cyAVDefC0d1_Y/edit#slide=id.p)
 - [The Preconfirmation Gateway ~ Unlocking Preconfirmations: From User to Preconfer | mteam](https://ethresear.ch/t/the-preconfirmation-gateway-unlocking-preconfirmations-from-user-to-preconfer/18812)
 - [Value-Capturing Based Rollups with Based Preconfirmations | Flashbots](https://collective.flashbots.net/t/value-capturing-based-rollups-with-based-preconfirmations/2884)
+- [Beyond Spot Transactions: Modeling Dynamic Preconfirmation Auctions](https://mirror.xyz/preconf.eth/iPfGsj55-C-D13hyrj_hj2tHAKU7xzeqltZ6gIum3j4)
+- [Based Preconfs FAQ](https://hackmd.io/@samlaf/based-preconfs-faq)
+- [Towards an implementation of based preconfirmations leveraging restaking](https://ethresear.ch/t/towards-an-implementation-of-based-preconfirmations-leveraging-restaking/19211)
 
 ### Talks & Spaces
 
