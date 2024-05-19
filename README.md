@@ -31,6 +31,7 @@
 - [Based Rollups with Stronger Finality & Revenue Share | Ben Fisch](https://hackmd.io/2HHg2t-gSbyJX3M170Nigw)
 - [Based Ticketing Rollup | George Spasov](https://hackmd.io/LRQPSItESPuMhUSwrB71rQ)
 - [Vanilla Based Sequencing | George Spasov, Daniel Ivanov](https://ethresear.ch/t/vanilla-based-sequencing/19379)
+- [Examining the Based Sequencing Spectrum | Jonas Bostoen](https://research.chainbound.io/examining-the-based-sequencing-spectrum)
   
 ### Talks & Spaces
 
