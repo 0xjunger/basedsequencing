@@ -32,6 +32,8 @@
 - [Based Ticketing Rollup | George Spasov](https://hackmd.io/LRQPSItESPuMhUSwrB71rQ)
 - [Vanilla Based Sequencing | George Spasov, Daniel Ivanov](https://ethresear.ch/t/vanilla-based-sequencing/19379)
 - [Examining the Based Sequencing Spectrum | Jonas Bostoen](https://research.chainbound.io/examining-the-based-sequencing-spectrum)
+- [Based Sequencer Selection | Simbro](https://ethresear.ch/t/based-sequencer-selection/19747)
+- [Credibly Neutral Preconfirmation Collateral the Preconfirmation Registry | mteam(Spire)](https://ethresear.ch/t/credibly-neutral-preconfirmation-collateral-the-preconfirmation-registry/19634)
   
 ### Talks & Spaces
 
@@ -56,8 +58,9 @@
 - [The Preconfirmation Gateway ~ Unlocking Preconfirmations: From User to Preconfer | mteam](https://ethresear.ch/t/the-preconfirmation-gateway-unlocking-preconfirmations-from-user-to-preconfer/18812)
 - [Value-Capturing Based Rollups with Based Preconfirmations | Flashbots](https://collective.flashbots.net/t/value-capturing-based-rollups-with-based-preconfirmations/2884)
 - [Beyond Spot Transactions: Modeling Dynamic Preconfirmation Auctions](https://mirror.xyz/preconf.eth/iPfGsj55-C-D13hyrj_hj2tHAKU7xzeqltZ6gIum3j4)
-- [Based Preconfs FAQ](https://hackmd.io/@samlaf/based-preconfs-faq)
+- [Based Preconfs FAQ | Rohan, Samuel](https://hackmd.io/@samlaf/based-preconfs-faq)
 - [Towards an implementation of based preconfirmations leveraging restaking](https://ethresear.ch/t/towards-an-implementation-of-based-preconfirmations-leveraging-restaking/19211)
+- [The Preconfirmation Sauna | Switchboard](https://ethresear.ch/t/the-preconfirmation-sauna/19762)
 
 ### Talks & Spaces
 
